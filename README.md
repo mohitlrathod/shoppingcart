@@ -3,8 +3,8 @@
 Classes
 
 			CustomerFactory
-					|
+				|
 			   Customer(I)
 			________|_________	
-			|			   	  |
-	CustomerRegular    CustomerPremium
+			|		  |
+	CustomerRegular            CustomerPremium
